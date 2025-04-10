@@ -6,7 +6,9 @@ This project explores neural networks through two parallel approaches:
 1. A fully manual neural network implemented with NumPy
 2. A PyTorch-based autoencoder trained on gesture data
 
-The notebook demonstrates core machine learning concepts like forward and backward propagation, training loops, and representation learning.
+The project demonstrates core machine learning concepts like forward and backward propagation, training loops, and representation learning.
+
+Developed as part of a CISC 3440 Machine Learning course.
 
 ---
 
